@@ -92,7 +92,22 @@ div{
     margin-left:120px; 
 }
 
-#tbc {
-    text-align: center;
-    font-size:40px
+#Time-Vienna {
+    font-size: 25px;
+    margin-right:120px;
+    margin-left:120px; 
+
+}
+
+#Death {
+    font-size: 25px;
+    margin-right:120px;
+    margin-left:120px; 
+
+}
+
+#bibo {
+    font-size: 25px;
+    margin-right:120px;
+    margin-left:120px; 
 }
